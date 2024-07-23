@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3c2cdd1e-d676-4b5b-baca-6f54be8e647a/deploy-status)](https://app.netlify.com/sites/maab-test2/deploys)
 # Content v2 Minimal Starter
 
 Look at the [Content documentation](https://content.nuxt.com/) to learn more.
